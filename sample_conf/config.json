@@ -26,6 +26,7 @@
 	"universal_web_hook": "",
 	"track_manual_jobs": false,
 	
+	"localmaster": false,
 	"server_comm_use_hostnames": false,
 	"web_direct_connect": false,
 	"web_socket_use_hostnames": false,
