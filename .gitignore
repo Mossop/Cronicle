@@ -1,5 +1,14 @@
 conf/
 data/
+htdocs/css/_combo.*
+htdocs/css/base.css
+htdocs/css/font-awesome.*
+htdocs/css/materialdesignicons.*
+htdocs/fonts/
+htdocs/index.*
+htdocs/js/_combo.*
+htdocs/js/common
+htdocs/js/external
 logs/
 node_modules/
 plugins/
