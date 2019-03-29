@@ -1,0 +1,6 @@
+conf/
+data/
+logs/
+node_modules/
+plugins/
+package-lock.json
